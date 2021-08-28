@@ -1,3 +1,9 @@
+# Information
+
+This project was coded as part of the React training I completed via the course located here:
+
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
